@@ -18,4 +18,4 @@ It contains:
 * Check your database version from cmd_config
 * Use the each corresponding script in /update to update from that version until you reach the last version
 
-_Based on AXE Ninja by Alexandre (aka elbereth) Devilliers_
+_Based on Dash Ninja by Alexandre (aka elbereth) Devilliers_
